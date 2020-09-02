@@ -2,7 +2,7 @@ Customers can buy CDs, searching on the title and the artist. Record labels send
 customer can only order titles that are in stock.
 
 Buy a CD
-* In stock
+* ~~In stock~~
 * Insufficient stock
 
 Search for a CD
